@@ -1,0 +1,67 @@
+{
+    "greeting": {
+        "fr": "Bonjour ! Bienvenue chez Bako Motors, spécialiste des véhicules électriques.",
+        "en": "Hello! Welcome to Bako Motors, specialists in electric vehicles.",
+        "ar": "مرحبًا! مرحبًا بكم في باكو موتورز، المتخصصين في السيارات الكهربائية."
+    },
+    "thanks": {
+        "fr": "De rien ! Comment puis-je vous aider encore ?",
+        "en": "You're welcome! How can I assist you further?",
+        "ar": "على الرحب والسعة! كيف يمكنني مساعدتك أكثر؟"
+    },
+    "farewell": {
+        "fr": "Au revoir ! À bientôt chez Bako Motors.",
+        "en": "Goodbye! See you soon at Bako Motors.",
+        "ar": "وداعًا! نراك قريبًا في باكو موتورز."
+    },
+    "bako_info": {
+        "fr": "Bako Motors est une entreprise marocaine fondée en 2020, spécialisée dans les véhicules électriques innovants comme le BEE et le B-VAN.",
+        "en": "Bako Motors is a Moroccan company founded in 2020, specializing in innovative electric vehicles like the BEE and B-VAN.",
+        "ar": "باكو موتورز هي شركة مغربية تأسست عام 2020، متخصصة في السيارات الكهربائية المبتكرة مثل بي وبي-فان."
+    },
+    "bee_info": {
+        "fr": "Le BEE est une citadine électrique avec 300 km d'autonomie, un design moderne, et une recharge rapide en 30 minutes.",
+        "en": "The BEE is an electric city car with a 300 km range, modern design, and fast charging in 30 minutes.",
+        "ar": "بي هي سيارة كهربائية حضرية بمدى 300 كم، تصميم عصري، وشحن سريع في 30 دقيقة."
+    },
+    "bvan_info": {
+        "fr": "Le B-VAN est un utilitaire électrique avec 5 m³ de volume de chargement, idéal pour les professionnels, avec 250 km d'autonomie.",
+        "en": "The B-VAN is an electric utility vehicle with 5 m³ of cargo space, ideal for professionals, with a 250 km range.",
+        "ar": "بي-فان هي مركبة كهربائية تجارية بسعة 5 متر مكعب، مثالية للمحترفين، بمدى 250 كم."
+    },
+    "model_info": {
+        "fr": "Bako Motors propose deux modèles : le BEE (citadine) et le B-VAN (utilitaire).",
+        "en": "Bako Motors offers two models: the BEE (city car) and the B-VAN (utility vehicle).",
+        "ar": "تقدم باكو موتورز نموذجين: بي (سيارة حضرية) وبي-فان (مركبة تجارية)."
+    },
+    "price_info": {
+        "fr": "Le BEE démarre à 28 000 € et le B-VAN à 35 000 € (sans aides).",
+        "en": "The BEE starts at €28,000 and the B-VAN at €35,000 (without subsidies).",
+        "ar": "يبدأ سعر بي من 28,000 يورو وبي-فان من 35,000 يورو (بدون دعم)."
+    },
+    "address_info": {
+        "fr": "Notre adresse : 123 Avenue Bako, Casablanca, Maroc.",
+        "en": "Our address: 123 Bako Avenue, Casablanca, Morocco.",
+        "ar": "عنواننا: 123 شارع باكو، الدار البيضاء، المغرب."
+    },
+    "contact_info": {
+        "fr": "Contactez-nous au +212 522 123 456 ou par email : contact@bakomotors.ma",
+        "en": "Contact us at +212 522 123 456 or via email: contact@bakomotors.ma",
+        "ar": "اتصل بنا على +212 522 123 456 أو عبر البريد الإلكتروني: contact@bakomotors pila
+    },
+    "hours_info": {
+        "fr": "Nos horaires : Lun-Ven 9h-18h, Sam 9h-13h.",
+        "en": "Our hours: Mon-Fri 9 AM-6 PM, Sat 9 AM-1 PM.",
+        "ar": "ساعات العمل: الإثنين-الجمعة 9 صباحًا-6 مساءً، السبت 9 صباحًا-1 ظهرًا."
+    },
+    "services_info": {
+        "fr": "Nous offrons des services de vente, entretien, recharge et location de véhicules électriques.",
+        "en": "We offer sales, maintenance, charging, and rental services for electric vehicles.",
+        "ar": "نقدم خدمات البيع، الصيانة، الشحن، والتأجير للسيارات الكهربائية."
+    },
+    "default": {
+        "fr": "Désolé, je n'ai pas compris. Pouvez-vous reformuler ?",
+        "en": "Sorry, I didn't understand. Can you rephrase?",
+        "ar": "عذرًا، لم أفهم. هل يمكنك إعادة الصياغة؟"
+    }
+}
