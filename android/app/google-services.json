@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "656732856109",
+    "firebase_url": "https://testbakoapp-default-rtdb.firebaseio.com",
+    "project_id": "testbakoapp",
+    "storage_bucket": "testbakoapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656732856109:android:09f791f8242774a204fda4",
+        "android_client_info": {
+          "package_name": "bako.app.mob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXybR2O4jC4D3lBm6TBZ5aDhVEi9Hft8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656732856109:android:f7e7038080b08eee04fda4",
+        "android_client_info": {
+          "package_name": "com.example.control_car"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXybR2O4jC4D3lBm6TBZ5aDhVEi9Hft8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
